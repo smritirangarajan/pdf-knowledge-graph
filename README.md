@@ -2,6 +2,8 @@
 
 A comprehensive Streamlit application that extracts text from PDFs and generates interactive knowledge graphs using advanced NLP techniques.
 
+## Deployed on Streamlit [here](https://pdf-knowledge-graph-fefdkweystgyqrsylshqm4.streamlit.app/)
+
 ## Features
 
 - **PDF Processing**: Extract text from PDF files using multiple extraction methods
