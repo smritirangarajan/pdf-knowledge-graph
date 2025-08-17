@@ -10,9 +10,7 @@ A comprehensive Streamlit application that extracts text from PDFs and generates
 - **Text Analysis**: Sentiment analysis, readability metrics, and comprehensive text statistics
 - **Interactive Visualizations**: Multiple visualization types including interactive graphs, charts, and word clouds
 - **Export Capabilities**: Export data in multiple formats (CSV, JSON)
-- **Streamlit Interface**: Beautiful, responsive web interface
-
-## Quick Start
+- **Streamlit Interface**: Responsive web interface
 
 ### Prerequisites
 
@@ -44,7 +42,7 @@ A comprehensive Streamlit application that extracts text from PDFs and generates
 
 The application will open in your browser at `http://localhost:8501`
 
-## 📖 Usage
+## Usage
 
 ### 1. Upload & Process
 - Upload a PDF file using the file uploader
@@ -201,7 +199,7 @@ CMD ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=0.0.0
 - `relationships`: List of extracted relationships
 - `graph`: NetworkX graph object
 
-## 🧪 Testing
+## Testing
 
 ### Run Tests
 
